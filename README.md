@@ -1,6 +1,6 @@
 ### Hi there 👋
 这是一个人简单的程序猿
-This is a simple programmer
+This is a simple Coder
 <!--
 **SquareOfX/SquareOfX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
